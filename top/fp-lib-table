@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "top")(type "KiCad")(uri "//wsl$/Ubuntu/home/bncpr/dev/kbd/block/plates/top.pretty")(options "")(descr ""))
+)
